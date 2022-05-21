@@ -61,5 +61,3 @@ while 1:
     else:
         print('Invalid input...please try again.')
     print()
-
-    #by @codingwithsagar
